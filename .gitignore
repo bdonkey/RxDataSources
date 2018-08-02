@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # ss
-tkciOS.xcworkspace/xcshareddata/*
 *statistics.xml
 *.DS_Store
-=======
 # 2018-08-02
 .idea/*
->>>>>>> master
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
